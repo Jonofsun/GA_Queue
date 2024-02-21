@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace GA_Queue
+namespace GA_Queue_DoublyLinkedList_JonathanReed
 {
     class Queue<T>
     {

@@ -1,7 +1,11 @@
-﻿namespace GA_Queue
+﻿namespace GA_Queue_DoublyLinkedList_JonathanReed
 {
     internal class Program
     {
+        /*
+         Jonathan Reed
+         2/20/2024
+         */
         static void Main(string[] args)
         {
             Queue<int> queue = new Queue<int>();
